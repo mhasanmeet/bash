@@ -33,6 +33,8 @@ nano hello-world.sh
 sudo chmod +x hello-world.sh 
 ```
 
+Every time when we creata a bash file, we need to run this command to that file, for execute it
+
 * and finally run it
 
 ` ./hello-world.sh`
