@@ -38,3 +38,15 @@ Every time when we creata a bash file, we need to run this command to that file,
 * and finally run it
 
 ` ./hello-world.sh`
+
+### Space 
+
+In bash script programmig space is very important, so careful about it
+
+### Conditional / conditional flag
+
+* `!` = not statement
+* `-eq` = equal
+* `-ne` = not equal
+* `-gt` = greater than
+* `-f` = check for files
