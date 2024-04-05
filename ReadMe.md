@@ -43,10 +43,15 @@ Every time when we creata a bash file, we need to run this command to that file,
 
 In bash script programmig space is very important, so careful about it
 
-### Conditional / conditional flag
+### Conditional operator
 
 * `!` = not statement
 * `-eq` = equal
-* `-ne` = not equal
+* `-ge` = Greater than or equal
 * `-gt` = greater than
+* `-le` = Less than or equal
+* `-lt` = Less than
+* `-ne` = not equal
+
+### Others
 * `-f` = check for files
