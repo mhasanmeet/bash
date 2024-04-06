@@ -55,3 +55,4 @@ In bash script programmig space is very important, so careful about it
 
 ### Others
 * `-f` = check for files
+* `-d` = directory
